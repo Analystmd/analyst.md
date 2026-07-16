@@ -9,4 +9,4 @@ title: Сat analyst.md
 
 ## Публикации
 
-- [Как Linux хранит файлы: от диска до inode](posts/linux-filesystem.md)
+- [Как Linux хранит файлы: от диска до inode](linux/linux-filesystem.md)

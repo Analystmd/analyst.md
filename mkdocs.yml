@@ -1,0 +1,12 @@
+site_name: cat analyst.md
+site_description: Тимлид SOC, который продолжает расследовать инциденты. Windows, Linux, SIEM, EDR, Threat Hunting, DFIR и развитие аналитиков
+site_url: https://analystmd.github.io/analyst.md/
+
+theme:
+  name: material
+  language: ru
+
+nav:
+  - Главная: index.md
+  - Linux:
+      - Как Linux хранит файлы: linux/linux-filesystem.md
