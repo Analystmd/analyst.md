@@ -1,11 +1,12 @@
 ---
-title: cat analyst.md
+title: Сat analyst.md
 ---
 
-# cat analyst.md
+# Сat analyst.md
 
-Записки о Linux, кибербезопасности и внутреннем устройстве операционных систем.
+Тимлид SOC, который продолжает расследовать инциденты. Windows, Linux, SIEM, EDR, Threat Hunting, DFIR и развитие аналитиков
+
 
 ## Публикации
 
-- [Как Linux хранит файлы](posts/linux-filesystem.md)
+- [Как Linux хранит файлы: от диска до inode](posts/linux-filesystem.md)
