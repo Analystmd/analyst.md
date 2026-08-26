@@ -10,3 +10,5 @@ nav:
   - Главная: index.md
   - Linux:
       - Как Linux хранит файлы: linux/linux-filesystem.md
+  - Active Directory:
+      - Kerberoasting
