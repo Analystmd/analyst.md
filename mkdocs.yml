@@ -11,4 +11,5 @@ nav:
   - Linux:
       - Как Linux хранит файлы: linux/linux-filesystem.md
   - Active Directory:
-      - Kerberoasting
+      - Kerberoasting: active directory/Kerberoasting.md
+      - Password Spraying: active directory/Password Spraying.md
