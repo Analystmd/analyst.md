@@ -13,3 +13,5 @@ nav:
   - Active Directory:
       - Kerberoasting: active directory/Kerberoasting.md
       - Password Spraying: active directory/Password Spraying.md
+  - Windows:
+      - Как Windows хранит учётные данные: windows/Хранение учётных данных в Windows.md
